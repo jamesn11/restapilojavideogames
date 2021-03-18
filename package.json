@@ -1,0 +1,23 @@
+{
+  "name": "restapilojavideogames",
+  "version": "1.0.0",
+  "description": "Criação de uma api rest para consumo no Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesn11/restapilojavideogames.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesn11/restapilojavideogames/issues"
+  },
+  "homepage": "https://github.com/jamesn11/restapilojavideogames#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
